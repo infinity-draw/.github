@@ -16,9 +16,18 @@ Pixel War Infinite is a real-time, collaborative pixel art platform inspired by 
 - **Database**: Firebase / PostgreSQL / MongoDB
 - **Real-time**: WebSockets (Socket.io)
 
-## Setup
-### Backend
-```sh
-cd server
-npm install
-npm start
+## Deployment
+- **Frontend**: React
+- **Backend**: Docker container on my private server
+- **Scaling**: WebSocket load balancing (not implemented yet)
+
+## Roadmap
+- 🏰 **Pixel Protection & Moderation**
+- 🎭 **Custom User Colors & Themes**
+- 📱 **Improved Mobile Support**
+
+## License
+[MIT License](LICENSE)
+
+## Contact
+For inquiries, open a GitHub issue or email infinity-draw@thebrainfox.com.
